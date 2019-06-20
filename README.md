@@ -1,4 +1,4 @@
-# SSD Vibration Experiments
+# What does Vibration do to Your SSD?
 
 Bhimani, Janki, Patel, Tirthak, Mi, NingFang, and Tiwari, Devesh. "What does Vibration do to Your SSD?" In Proceedings of the 56th Annual Design Automation Conference (DAC). IEEE, 2019.
 
